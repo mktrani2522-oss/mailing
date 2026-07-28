@@ -1,0 +1,6 @@
+{
+  "name": "Mail Verifier & Merge",
+  "description": "Full-featured email verification and mail merge campaign sender supporting Gmail, Yahoo, AOL, and simulation mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
